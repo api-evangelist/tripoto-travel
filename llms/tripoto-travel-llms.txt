@@ -1,0 +1,10 @@
+# Tripoto Travel
+
+> Tripoto is a travel community and trip-planning platform where travelers discover destinations, read and publish first-person travel itineraries and stories, and book curated trips and experiences. The company was surfaced as a 500 Global portfolio company and is tracked in the API Evangelist network. No public developer API, OpenAPI specification, or developer portal was discoverable at the time of this profile.
+
+## Company
+- Website: https://tripoto.com
+
+## Notes
+- Generated from apis.yml by the API Evangelist enrichment pipeline.
+- No public API surface, OpenAPI/Swagger spec, or developer documentation was found. An `api.tripoto.com` host exists but serves the consumer application backend and returned HTTP 502 during probing; it is not a documented public API.
